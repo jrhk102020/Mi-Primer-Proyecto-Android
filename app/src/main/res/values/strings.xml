@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Mi Aplicación</string>
+    <string name="dashboard_text" translatable="false">Bienvenido</string>
+    <string name="button_text" translatable="false">Entrar</string>
+    <string name="marcianito_android" translatable="false">marcianito android</string>
+    <string name="todo" translatable="false">TODO</string>
+</resources>
